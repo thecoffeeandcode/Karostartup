@@ -1,8 +1,8 @@
 # Karostartup
-Google Calendar Integration
-to implement google calendar integration using django rest api.
-You need to use the OAuth2 mechanism to get users calendar access.
-Below are detail of API endpoint and corresponding views which you need to implement /rest/v1/calendar/init/ -> GoogleCalendarInitView() This view should start
+#Google Calendar Integration
+<br>to implement google calendar integration using django rest api.</br>
+<br>You need to use the OAuth2 mechanism to get users calendar access.</br>
+<br>Below are detail of API endpoint and corresponding views which you need to implement /rest/v1/calendar/init/ -> GoogleCalendarInitView() This view should start.</br>
 
 
 <br>rest api must install using pip3 install djangorestframework </br>
